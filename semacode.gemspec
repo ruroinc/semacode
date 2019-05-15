@@ -2,7 +2,7 @@
 # require 'rake/gempackagetask'
 
 Gem::Specification.new do |s| 
-  s.name = "semacode"
+  s.name = "semacode-ruby19"
   s.version = "0.8.0"
   s.author = "Guido Sohne"
   s.email = "guido@sohne.net"
